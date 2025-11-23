@@ -1,0 +1,5 @@
+{
+  "name": "Micro RTS React",
+  "description": "A streamlined 2D Real-Time Strategy game featuring base building, resource gathering, unit training, farming mechanics, and an intelligent AI opponent in an Age of Empires style.",
+  "requestFramePermissions": []
+}
